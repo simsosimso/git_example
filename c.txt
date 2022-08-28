@@ -12,3 +12,5 @@ add -m
 
 master branch
 master branch2
+
+candidate branch
